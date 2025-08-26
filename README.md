@@ -73,7 +73,8 @@ A - LINEAR TREND ESTIMATION
 
 
 B- POLYNOMIAL TREND ESTIMATION
-![Uploading image.png…]()
+<img width="1044" height="555" alt="image" src="https://github.com/user-attachments/assets/cb127a37-baf9-4769-9d54-cea2b4588575" />
+
 
 
 ### RESULT:
